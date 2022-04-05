@@ -1,0 +1,8 @@
+rusty knife,5,
+kitchen knife,10,
+machette,15,
+pistol,20,
+smg,25,
+rife,30,
+assault rifle,35,
+sniper rifle,40,

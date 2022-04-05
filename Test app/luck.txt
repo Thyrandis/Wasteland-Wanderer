@@ -1,0 +1,5 @@
+old heirloom,2,
+lucky coin,3,
+lucky underpants,4,
+rabbits foot,5,
+4 leaf clover,8,
